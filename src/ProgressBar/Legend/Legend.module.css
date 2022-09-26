@@ -1,0 +1,11 @@
+.legendEl{
+	display: flex;
+	font-size: 14px;
+}
+.marker{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: black;
+	margin-right: 3px;
+}
